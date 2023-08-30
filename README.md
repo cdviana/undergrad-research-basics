@@ -1,18 +1,19 @@
 # Projetos de Iniciação Científica
-
+<!--- 
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<!--- 
+
 <img src="imagem.png" alt="Exemplo imagem">
 -->
 
 > Repositório para centralizar instruções e interações para alunas e alunos de iniciação científica sob minha orientação.
 
 👩‍🏫 Prof. Camila Duelis Viana - [ORCID](https://orcid.org/0000-0001-7093-0244)|[Lattes](http://lattes.cnpq.br/8408152690266564)|[LinkedIn](https://www.linkedin.com/in/camila-duelis-viana/)
+
 📫 Departamento de Geologia Sedimentar e Ambiental - [Instituto de Geociências](https://igc.usp.br/), Universidade de São Paulo.
 
 ## 🧭 Onde fica cada coisa
