@@ -82,11 +82,11 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
 -->
 
-## 📝 Licença
+### 📝 Licença
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
 
-### Ajustes e melhorias
+### 🔧 Ajustes e melhorias
 
 O repositório ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
