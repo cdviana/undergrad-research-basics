@@ -63,7 +63,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
         </sub>
       </a>
     </td>
-       <td align="center">
+<!---       <td align="center">
       <a href="#">
         <img src="https://icons-for-free.com/download-icon-people+person+profile+user+icon-1320186207447274965_512.png" width="100px;" alt="Foto da Keila"/><br>
         <sub>
@@ -71,7 +71,7 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
           <p> </p>
         </sub>
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
