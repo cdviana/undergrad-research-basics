@@ -91,9 +91,9 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 O repositório ainda está em desenvolvimento, e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [X] Instruções básicas sobre o Google Colab
-- [ ] Como fazer citações e referências bibliográficas
-- [ ] Modelos de relatórios
-- [ ] Dicas de material sobre Python
+- [X] Como fazer citações e referências bibliográficas
+- [X] Modelos de relatórios
+- [X] Dicas de material sobre Python
 - [ ] Introdução ao Machine Learning
 - [ ] Organização e gerenciamento de tempo
 - [ ] Usando LaTeX
