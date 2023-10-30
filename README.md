@@ -46,32 +46,41 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
 <table>
   <tr>
     <td align="center">
-      <a href="#">
-        <img src="https://icons-for-free.com/download-icon-people+person+profile+user+icon-1320186207447274965_512.png" width="100px;" alt="Foto do Guilherme"/><br>
+      <a href="https://github.com/guifernandesz">
+        <img src="https://avatars.githubusercontent.com/u/100137566?v=4" width="100px;" alt="Foto do Guilherme"/><br>
         <sub>
-          <b>Guilherme de Aquino F. Sousa</b>
+          <b>Guilherme de A. F. Sousa</b>
           <p>PIBIC 23/24</p>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/gabrielccr">
-        <img src="https://icons-for-free.com/download-icon-people+person+profile+user+icon-1320186207447274965_512.png" width="100px;" alt="Foto da Keila"/><br>
+        <img src="https://avatars.githubusercontent.com/u/102759495?v=4" width="100px;" alt="Foto do Gabriel"/><br>
         <sub>
           <b>Gabriel C. C. Rodrigues</b>
           <p>PUB 23/24</p>
         </sub>
       </a>
     </td>
-<!---       <td align="center">
+<td align="center">
       <a href="#">
-        <img src="https://icons-for-free.com/download-icon-people+person+profile+user+icon-1320186207447274965_512.png" width="100px;" alt="Foto da Keila"/><br>
+        <img src="https://static.vecteezy.com/system/resources/previews/020/911/731/non_2x/profile-icon-avatar-icon-user-icon-person-icon-free-png.png" width="100px;" alt="Foto da Keila"/><br>
         <sub>
-          <b>Mika Rodrigues Felisbino</b>
+          <b>Keila A. de A. Silva</b>
           <p> </p>
         </sub>
       </a>
-    </td> -->
+    </td> 
+<td align="center">
+      <a href="https://github.com/lefcampos">
+        <img src="https://avatars.githubusercontent.com/u/148015063?v=4" width="100px;" alt="Foto da Leticia"/><br>
+        <sub>
+          <b>Leticia F. Campos</b>
+          <p> </p>
+        </sub>
+      </a>
+    </td> 
   </tr>
 </table>
 
