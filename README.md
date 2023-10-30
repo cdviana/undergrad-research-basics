@@ -55,10 +55,10 @@ Como alternativa, consulte a documentação do GitHub em [como criar uma solicit
       </a>
     </td>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/gabrielccr">
         <img src="https://icons-for-free.com/download-icon-people+person+profile+user+icon-1320186207447274965_512.png" width="100px;" alt="Foto da Keila"/><br>
         <sub>
-          <b>Keila Avila de A. Silva</b>
+          <b>Gabriel C. C. Rodrigues</b>
           <p>PUB 23/24</p>
         </sub>
       </a>
